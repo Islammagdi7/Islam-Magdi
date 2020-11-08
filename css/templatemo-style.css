@@ -776,6 +776,7 @@ textarea.form-control {
   background-color: rgba(250,250,250,0.25);
   padding: 40px;
   border-radius: 10px;
+  margin-left: 170px;
 }
 .testimonials-section .item img {
   width: 140px;
